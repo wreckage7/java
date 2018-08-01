@@ -146,7 +146,7 @@ public class BeatBoxFinal {  // implements MetaEventListener
         sequencer.setTempoInBPM(120);
         
        } catch(Exception e) {e.printStackTrace();}
-    } 
+    }
 
     public void buildTrackAndStart()
     {

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">fcontrol</string>
+
+    <string name="dummy_button">Нажмите для запуска</string>
+    <string name="dummy_content">ПРОВЕДИТЕ  КАРТОЙ\nДЛЯ ОПЛАТЫ </string>
+
+    <string name="title_activity_base">BaseActivity</string>
+    <string name="choice_but">ГЛАВНЫЙ ЭКРАН</string>
+</resources>
