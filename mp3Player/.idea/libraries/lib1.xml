@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/8-GUI_MP3Player_part1/dist/lib/mp3spi1.9.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/8-GUI_MP3Player_part1/dist/lib/jmactritonusspi1.74.jar!/" />
+      <root url="jar://$PROJECT_DIR$/8-GUI_MP3Player_part1/dist/lib/tritonus_share.jar!/" />
+      <root url="jar://$PROJECT_DIR$/8-GUI_MP3Player_part1/dist/lib/jspeex0.9.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/8-GUI_MP3Player_part1/dist/lib/jogg-0.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/8-GUI_MP3Player_part1/dist/lib/jflac-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/8-GUI_MP3Player_part1/dist/lib/jorbis-0.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/8-GUI_MP3Player_part1/dist/lib/commons-logging-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/8-GUI_MP3Player_part1/dist/lib/basicplayer3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/8-GUI_MP3Player_part1/dist/lib/kj_dsp1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/8-GUI_MP3Player_part1/dist/lib/vorbisspi1.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/8-GUI_MP3Player_part1/dist/lib/jl1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

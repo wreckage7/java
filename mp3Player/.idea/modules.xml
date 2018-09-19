@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/mp3Player.iml" filepath="$PROJECT_DIR$/mp3Player.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8-GUI_MP3Player_part1/8-GUI_MP3Player_part1.iml" filepath="$PROJECT_DIR$/8-GUI_MP3Player_part1/8-GUI_MP3Player_part1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8-GUI_jlGUI/8-GUI_jlGUI.iml" filepath="$PROJECT_DIR$/8-GUI_jlGUI/8-GUI_jlGUI.iml" />
     </modules>
   </component>
 </project>
